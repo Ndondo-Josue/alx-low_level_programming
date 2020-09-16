@@ -1,6 +1,11 @@
 #include <stdio.h>
-/* main.c */
-int main(int argc, char *argv[])
+
+/**
+ * main - Printing a line
+ *
+ * Return: Always 0 (Success)
+ */
+int main(void)
 {
 puts("Programming is like building a multilingual puzzle");
 return (0);
